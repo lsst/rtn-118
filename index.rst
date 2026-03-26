@@ -125,7 +125,7 @@ The guidelines in this document are designed to fulfill these statements from th
 Precursor DM Liaison Program
 ----------------------------
 
-During Rubin Construction there were Data Management (DM) liaisons identified as points of contact between the Science Collaborations and the construction-era DM team, as described in internal documentation in Confluence (the `DM Community Communications <https://confluence.lsstcorp.org/display/DM/DM-Community+Communications>`_ page).
+During Rubin Construction there were Data Management (DM) liaisons identified as points of contact between the Science Collaborations and the construction-era DM team, as described in internal documentation in Confluence (the `DM Community Communications <https://rubinobs.atlassian.net/wiki/spaces/DM/pages/48824452/DM-Community+Communications>`_ page).
 
 
 
