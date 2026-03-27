@@ -37,26 +37,17 @@ SC membership
 
 Liaisons should be (or become) members of the SC, and have access to the collaborations documentation, tools, and communications.
 
-Meetings
---------
-
-Liaisons should communicate regularly with members of the SC in order to share information (especially regarding any issues that potentially impact the SC, such as data releases, software updates, downtime), solicit feedback, and answer questions.
-The type of communication (e.g., email, virual meeting) is left to the SC chairs and Liaisons to optimize.
-
-During these meetings, Liaisons should raise any issues that potentially impact the SC (e.g., upcoming data releases, software updates, downtime), solicit feedback, and answer questions.
-
-Liaisons are not required to travel to attend in-person meetings of the SC and there are no extra travel funds allocated for this.
-
-Liaisons are also encouraged to attend the virtual biannual `Users Committee <https://rubinobservatory.org/for-scientists/committees-teams/users-committee>`_ (UC) meetings because their discussion topics focus on the scientific utility of the Rubin data products, pipelines, and services to the broader science community.
-
-Liaisons are also invited to attend CST meetings or speak with the CST lead, as needed, to discuss issues or ask questions related to their Liaison duties.
-
 Communications
 --------------
 
-Liaisons should monitor and respond to communications from the SC.
+Liaisons should communicate regularly with members of the SC in order to share information (especially regarding any issues that potentially impact the SC, such as data releases, software updates, downtime), solicit feedback, and answer questions.
+The type and cadence of communication (e.g., email, virual meeting) is left to the SC chairs and Liaisons to optimize.
 
-Email: Liaison’s email addresses will be provided to the SC chairs. The Liaisons should request to be added to any SC email lists.
+Liaisons should monitor and respond to direct communications from the SC.
+They do not need to read every bulk email, Slack post, or Forum topic related to the SC.
+
+Email: Liaison’s email addresses will be provided to the SC chairs.
+The Liaisons can request to be added to any SC email lists.
 
 Slack: Liaisons should join the LSST Discovery Alliance Slack space and any SC channels (as recommended by the chairs).
 It is recommended to have account settings that push notifications for direct messages and @-mentions in the relevant channels.
@@ -64,6 +55,19 @@ Liaisons should also join the Rubin Observatory Slack space #community-science c
 
 Forum: Liaisons should have an account in the Rubin Community Forum, and know how to respond to `private messages <https://community.lsst.org/t/how-to-send-and-receive-direct-private-messages/8419>`_.
 Liaisons should join the `Forum group <https://community.lsst.org/g>`_ for the SC, if applicable.
+
+
+Meetings
+--------
+
+There are no meetings requirements for Liaisons.
+If the SC chairs request the Liaison's presence at a virtual meeting, they should try to accommodate this.
+
+Liaisons are not required to travel to attend in-person meetings of the SC and there are no extra travel funds allocated for this.
+
+Liaisons are welcome to attend the virtual biannual `Users Committee <https://rubinobservatory.org/for-scientists/committees-teams/users-committee>`_ (UC) meetings because their discussion topics focus on the scientific utility of the Rubin data products, pipelines, and services to the broader science community.
+
+Liaisons are also invited to attend CST meetings or speak with the CST lead, as needed, to discuss issues or ask questions related to their Liaison duties.
 
 Advocacy
 --------
