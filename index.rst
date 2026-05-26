@@ -13,7 +13,7 @@ This document provides guidelines for Rubin Liaisons to the Science Collaboratio
 
 The Liaisons serve as a support contact, and advocate, and a two-way conduit for information to and from the SCs, with a focus on the scientific application of the Rubin data products, pipelines, and services.
 
-These Liaisons are separate from the `Survey Cadence Optimization Committee <https://www.lsst.org/content/charge-survey-cadence-optimization-committee-scoc>`_ (SCOC), which has its own liaisons to each SC.
+These Liaisons are separate from the `Survey Cadence Optimization Committee <https://rubinobservatory.org/for-scientists/committees-teams/scoc>`_ (SCOC), which has its own liaisons to each SC.
 They are also separate from liaisons maintained by Rubin EPO, Commissioning, and Survey Strategy teams.
 
 The Liaison program is facilitated by the Community Science team (CST).
