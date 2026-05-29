@@ -1,28 +1,28 @@
-###########################################################
-Guidelines for Rubin Liaisons to the Science Collaborations
-###########################################################
+#####################################################################
+Guidelines for Data Management Liaisons to the Science Collaborations
+#####################################################################
 
 .. abstract::
 
-   This document provides guidelines for Rubin Liaisons to the Science Collaborations. The Liaisons serve as a support contact, and advocate, and a two-way conduit for information to and from the SCs, with a focus on the scientific application of the Rubin data products, pipelines, and services.
+   This document provides guidelines for Data Management (DM) Liaisons to the Science Collaborations. The DM Liaisons serve as a support contact, and advocate, and a two-way conduit for information to and from the SCs, with a focus on the scientific application of the Rubin data products, pipelines, and services.
 
 Introduction
 ============
 
-This document provides guidelines for Rubin Liaisons to the Science Collaborations (SCs).
+This document provides guidelines for DM Liaisons to the Science Collaborations (SCs).
 
-The Liaisons serve as a support contact, and advocate, and a two-way conduit for information to and from the SCs, with a focus on the scientific application of the Rubin data products, pipelines, and services.
+The DM Liaisons serve as a support contact, and advocate, and a two-way conduit for information to and from the SCs, with a focus on the scientific application of the Rubin data products, pipelines, and services.
 
-These Liaisons are separate from the `Survey Cadence Optimization Committee <https://rubinobservatory.org/for-scientists/committees-teams/scoc>`_ (SCOC), which has its own liaisons to each SC.
+These DM Liaisons are separate from the `Survey Cadence Optimization Committee <https://rubinobservatory.org/for-scientists/committees-teams/scoc>`_ (SCOC), which has its own liaisons to each SC.
 They are also separate from liaisons maintained by Rubin EPO, Commissioning, and Survey Strategy teams.
 
-The Liaison program is facilitated by the Community Science team (CST).
+The DM Liaison program is facilitated by the Community Science team (CST).
 
 
 Role and responsibilities
 =========================
 
-Liaisons are long-term Rubin staff, typically members of the Data Management (DM) department.
+DM Liaisons are long-term Rubin staff, and members of the Data Management department.
 They have general knowledge of the Rubin data products, pipelines, and services, and a scientific background relevant to their assigned SC.
 
 Time commitment
@@ -35,54 +35,54 @@ The total expected time commitment is ~5% FTE per year (2h/week).
 SC membership
 -------------
 
-Liaisons should be (or become) members of the SC, and have access to the collaborations documentation, tools, and communications.
+DM Liaisons should be (or become) members of the SC, and have access to the collaborations documentation, tools, and communications.
 
 Communications
 --------------
 
-Liaisons should communicate regularly with members of the SC in order to share information (especially regarding any issues that potentially impact the SC, such as data releases, software updates, downtime), solicit feedback, and answer questions.
-The type and cadence of communication (e.g., email, virual meeting) is left to the SC chairs and Liaisons to optimize.
+DM Liaisons should communicate regularly with members of the SC in order to share information (especially regarding any issues that potentially impact the SC, such as data releases, software updates, downtime), solicit feedback, and answer questions.
+The type and cadence of communication (e.g., email, virual meeting) is left to the SC chairs and DM Liaisons to optimize.
 
-Liaisons should monitor and respond to direct communications from the SC.
+DM Liaisons should monitor and respond to direct communications from the SC.
 They do not need to read every bulk email, Slack post, or Forum topic related to the SC.
 
-Email: Liaison’s email addresses will be provided to the SC chairs.
-The Liaisons can request to be added to any SC email lists.
+Email: DM Liaison’s email addresses will be provided to the SC chairs.
+The DM Liaisons can request to be added to any SC email lists.
 
-Slack: Liaisons should join the LSST Discovery Alliance Slack space and any SC channels (as recommended by the chairs).
+Slack: DM Liaisons should join the LSST Discovery Alliance Slack space and any SC channels (as recommended by the chairs).
 It is recommended to have account settings that push notifications for direct messages and @-mentions in the relevant channels.
-Liaisons should also join the Rubin Observatory Slack space #community-science channel to communicate with the CST.
+DM Liaisons should also join the Rubin Observatory Slack space #community-science channel to communicate with the CST.
 
-Forum: Liaisons should have an account in the Rubin Community Forum, and know how to respond to `private messages <https://community.lsst.org/t/how-to-send-and-receive-direct-private-messages/8419>`_.
-Liaisons should join the `Forum group <https://community.lsst.org/g>`_ for the SC, if applicable.
+Forum: DM Liaisons should have an account in the Rubin Community Forum, and know how to respond to `private messages <https://community.lsst.org/t/how-to-send-and-receive-direct-private-messages/8419>`_.
+DM Liaisons should join the `Forum group <https://community.lsst.org/g>`_ for the SC, if applicable.
 
 
 Meetings
 --------
 
-There are no meetings requirements for Liaisons.
-If the SC chairs request the Liaison's presence at a virtual meeting, they should try to accommodate this.
+There are no meetings requirements for DM Liaisons.
+If the SC chairs request the DM Liaison's presence at a virtual meeting, they should try to accommodate this.
 
-Liaisons are not required to travel to attend in-person meetings of the SC and there are no extra travel funds allocated for this.
+DM Liaisons are not required to travel to attend in-person meetings of the SC and there are no extra travel funds allocated for this.
 
-Liaisons are welcome to attend the virtual biannual `Users Committee <https://rubinobservatory.org/for-scientists/committees-teams/users-committee>`_ (UC) meetings because their discussion topics focus on the scientific utility of the Rubin data products, pipelines, and services to the broader science community.
+DM Liaisons are welcome to attend the virtual biannual `Users Committee <https://rubinobservatory.org/for-scientists/committees-teams/users-committee>`_ (UC) meetings because their discussion topics focus on the scientific utility of the Rubin data products, pipelines, and services to the broader science community.
 
-Liaisons are also invited to attend CST meetings or speak with the CST lead, as needed, to discuss issues or ask questions related to their Liaison duties.
+DM Liaisons are also invited to attend CST meetings or speak with the CST lead, as needed, to discuss issues or ask questions related to their DM Liaison duties.
 
 Advocacy
 --------
 
-Liaisons represent the perspective and needs of their SC as best they can in their day-to-day work as Rubin staff.
-For example, when developing pipelines, defining data products, or in staff meetings, it is the Liaison’s role to be the voice of the SC members as best they can.
+DM Liaisons represent the perspective and needs of their SC as best they can in their day-to-day work as Rubin staff.
+For example, when developing pipelines, defining data products, or in staff meetings, it is the DM Liaison’s role to be the voice of the SC members as best they can.
 This advocacy proactively supports the SC.
 
 Support
 -------
 
-Liaisons should respond to, and follow-up on, all questions, feedback, or issues that are brought to their attention via any communication channel.
+DM Liaisons should respond to, and follow-up on, all questions, feedback, or issues that are brought to their attention via any communication channel.
 This might include, e.g., pointing them to the right documentation or tutorial; finding out answers from other Rubin staff or in source code and reporting back; or raising an issue on their behalf with the appropriate product owner.
 
-Questions that are beyond the Liaison’s expertise can be redirected to the Rubin Community Forum, where they will be followed-up by other Rubin staff (`RTN-097 <https://rtn-097.lsst.io/>`_).
+Questions that are beyond the DM Liaison’s expertise can be redirected to the Rubin Community Forum, where they will be followed-up by other Rubin staff (`RTN-097 <https://rtn-097.lsst.io/>`_).
 See these `instructions for how to ask a question in the Forum <https://community.lsst.org/t/how-to-ask-a-question-in-the-forum/8198>`_.
 
 Support that goes beyond >2h/week should be discussed with the Lead Community Scientist, who will incorporate the issue into the CST’s Jira workflow for issue resolution.
@@ -92,20 +92,21 @@ Appointment process
 
 The CST Lead will facilitate the appointment process.
 
-Assigning new Liaisons
-----------------------
+Assigning new DM Liaisons
+-------------------------
 
-First, the CST Lead will reach out to the chairs of each SC and take the names of any desired Liaisons. If the Liaison agrees, the process is complete.
+First, the CST Lead will reach out to the chairs of each SC and take the names of any desired DM Liaisons.
+If the DM Liaison agrees, the process is complete.
 
-If a SC does not have a particular person in mind, the CST Lead will solicit nominations or volunteers internally and provide the SC chairs with a short description of each potential Liaison.
-The SC chairs will choose, and if the Liaison agrees, the process is complete.
+If a SC does not have a particular person in mind, the CST Lead will solicit nominations or volunteers internally and provide the SC chairs with a short description of each potential DM Liaison.
+The SC chairs will choose, and if the DM Liaison agrees, the process is complete.
 
-The SC chairs should ensure the new Liaison has access to any relevant Slack channels, email lists, and virtual meetings.
+The SC chairs should ensure the new DM Liaison has access to any relevant Slack channels, email lists, and virtual meetings.
 
-Changing the Liaison
---------------------
+Changing the DM Liaison
+-----------------------
 
-The Liaison or the SC can initiate the process to identify a new Liaison at any time by contacting the CST Lead.
+The DM Liaison or the SC can initiate the process to identify a new DM Liaison at any time by contacting the CST Lead.
 
 Auxiliary information
 =====================
@@ -113,13 +114,13 @@ Auxiliary information
 Role of the CST
 ---------------
 
-The Community Science team (CST) facilitates the Liaison program by helping the SCs chairs identify their Liaisons, and helping the Liaisons in their advocacy and support work.
+The Community Science team (CST) facilitates the DM Liaison program by helping the SCs chairs identify their DM Liaisons, and helping the DM Liaisons in their advocacy and support work.
 
 Science Collaborations’ Federation Charter
 ------------------------------------------
 
 The Rubin Observatory `Science Collaboration Federation Charter <https://docushare.lsst.org/docushare/dsweb/Get/Agreement-241>`_ formalizes the nature of the Science Collaborations and their relationship to Rubin Observatory.
-It makes several statements that define what the Liaison program should deliver.
+It makes several statements that define what the DM Liaison program should deliver.
 
 Section 3 (version July 23, 2021) states that "*The Science Collaborations have the right to direct communication with the Rubin Observatory Data Management team (DM, or equivalent bodies in the future phases of the Observatory) via a designated liaison facilitated by the Rubin Observatory Community Engagement Team (currently Community Science Team, CST)*."
 It also states that "*Each Rubin liaison to the SCs should participate in the activities of the SC. They should participate in the relevant SC meetings, within reason, and report on DM, construction, and Rubin operations activities to the SC at least quarterly, at a cadence agreed-upon with the SC*."
